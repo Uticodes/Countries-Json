@@ -1,0 +1,2279 @@
+[
+  {
+    "currencyName": "Afghan Afghani",
+    "currencySymbol": "؋",
+    "countryCode": "AF",
+    "currencyCode": "AFN",
+    "countryFlag": "🇦🇫",
+    "countryName": "Afghanistan",
+    "dialCode": "+93"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "AX",
+    "currencyCode": "EUR",
+    "countryFlag": "🇦🇽",
+    "countryName": "Åland Islands",
+    "dialCode": "+358"
+  },
+  {
+    "currencyName": "Albanian Lek",
+    "currencySymbol": "L",
+    "countryCode": "AL",
+    "currencyCode": "ALL",
+    "countryFlag": "🇦🇱",
+    "countryName": "Albania",
+    "dialCode": "+355"
+  },
+  {
+    "currencyName": "Algerian Dinar",
+    "currencySymbol": "دج",
+    "countryCode": "DZ",
+    "currencyCode": "DZD",
+    "countryFlag": "🇩🇿",
+    "countryName": "Algeria",
+    "dialCode": "+213"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "AS",
+    "currencyCode": "USD",
+    "countryFlag": "🇦🇸",
+    "countryName": "American Samoa",
+    "dialCode": "+1684"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "AD",
+    "currencyCode": "EUR",
+    "countryFlag": "🇦🇩",
+    "countryName": "Andorra",
+    "dialCode": "+376"
+  },
+  {
+    "currencyName": "Angolan Kwanza",
+    "currencySymbol": "Kz",
+    "countryCode": "AO",
+    "currencyCode": "AOA",
+    "countryFlag": "🇦🇴",
+    "countryName": "Angola",
+    "dialCode": "+244"
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "AI",
+    "currencyCode": "XCD",
+    "countryFlag": "🇦🇮",
+    "countryName": "Anguilla",
+    "dialCode": "+1264"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "AQ",
+    "currencyCode": "USD",
+    "countryFlag": "🇦🇶",
+    "countryName": "Antarctica",
+    "dialCode": "+1",
+    "note": "Antarctica does not have an official currency. Various currencies are used depending on the country operating the station."
+  },
+  {
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "countryCode": "AQ",
+    "currencyCode": "GBP",
+    "countryFlag": "🇦🇶",
+    "countryName": "Antarctica",
+    "dialCode": "+44"
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "AG",
+    "currencyCode": "XCD",
+    "countryFlag": "🇦🇬",
+    "countryName": "Antigua and Barbuda",
+    "dialCode": "+1268"
+  },
+  {
+    "currencyName": "Argentine Peso",
+    "currencySymbol": "$",
+    "countryCode": "AR",
+    "currencyCode": "ARS",
+    "countryFlag": "🇦🇷",
+    "countryName": "Argentina",
+    "dialCode": "+54"
+  },
+  {
+    "currencyName": "Armenian Dram",
+    "currencySymbol": "֏",
+    "countryCode": "AM",
+    "currencyCode": "AMD",
+    "countryFlag": "🇦🇲",
+    "countryName": "Armenia",
+    "dialCode": "+374"
+  },
+  {
+    "currencyName": "Aruban Florin",
+    "currencySymbol": "ƒ",
+    "countryCode": "AW",
+    "currencyCode": "AWG",
+    "countryFlag": "🇦🇼",
+    "countryName": "Aruba",
+    "dialCode": "+297"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "AU",
+    "currencyCode": "AUD",
+    "countryFlag": "🇦🇺",
+    "countryName": "Australia",
+    "dialCode": "+61"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "AT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇦🇹",
+    "countryName": "Austria",
+    "dialCode": "+43"
+  },
+  {
+    "currencyName": "Azerbaijani Manat",
+    "currencySymbol": "₼",
+    "countryCode": "AZ",
+    "currencyCode": "AZN",
+    "countryFlag": "🇦🇿",
+    "countryName": "Azerbaijan",
+    "dialCode": "+994"
+  },
+  {
+    "currencyName": "Bahamian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "BS",
+    "currencyCode": "BSD",
+    "countryFlag": "🇧🇸",
+    "countryName": "Bahamas",
+    "dialCode": "+1242"
+  },
+  {
+    "currencyName": "Bahraini Dinar",
+    "currencySymbol": ".د.ب",
+    "countryCode": "BH",
+    "currencyCode": "BHD",
+    "countryFlag": "🇧🇭",
+    "countryName": "Bahrain",
+    "dialCode": "+973"
+  },
+  {
+    "currencyName": "Bangladeshi Taka",
+    "currencySymbol": "৳",
+    "countryCode": "BD",
+    "currencyCode": "BDT",
+    "countryFlag": "🇧🇩",
+    "countryName": "Bangladesh",
+    "dialCode": "+880"
+  },
+  {
+    "currencyName": "Barbadian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "BB",
+    "currencyCode": "BBD",
+    "countryFlag": "🇧🇧",
+    "countryName": "Barbados",
+    "dialCode": "+1246"
+  },
+  {
+    "currencyName": "Belarusian Ruble",
+    "currencySymbol": "Br",
+    "countryCode": "BY",
+    "currencyCode": "BYN",
+    "countryFlag": "🇧🇾",
+    "countryName": "Belarus",
+    "dialCode": "+375"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "BE",
+    "currencyCode": "EUR",
+    "countryFlag": "🇧🇪",
+    "countryName": "Belgium",
+    "dialCode": "+32"
+  },
+  {
+    "currencyName": "Belize Dollar",
+    "currencySymbol": "$",
+    "countryCode": "BZ",
+    "currencyCode": "BZD",
+    "countryFlag": "🇧🇿",
+    "countryName": "Belize",
+    "dialCode": "+501"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "BJ",
+    "currencyCode": "XOF",
+    "countryFlag": "🇧🇯",
+    "countryName": "Benin",
+    "dialCode": "+229"
+  },
+  {
+    "currencyName": "Bermudian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "BM",
+    "currencyCode": "BMD",
+    "countryFlag": "🇧🇲",
+    "countryName": "Bermuda",
+    "dialCode": "+1441"
+  },
+  {
+    "currencyName": "Bhutanese Ngultrum",
+    "currencySymbol": "Nu.",
+    "countryCode": "BT",
+    "currencyCode": "BTN",
+    "countryFlag": "🇧🇹",
+    "countryName": "Bhutan",
+    "dialCode": "+975"
+  },
+  {
+    "currencyName": "Bolivian Boliviano",
+    "currencySymbol": "Bs.",
+    "countryCode": "BO",
+    "currencyCode": "BOB",
+    "countryFlag": "🇧🇴",
+    "countryName": "Bolivia",
+    "dialCode": "+591"
+  },
+  {
+    "currencyName": "Bosnia-Herzegovina Convertible Mark",
+    "currencySymbol": "KM",
+    "countryCode": "BA",
+    "currencyCode": "BAM",
+    "countryFlag": "🇧🇦",
+    "countryName": "Bosnia and Herzegovina",
+    "dialCode": "+387"
+  },
+  {
+    "currencyName": "Botswana Pula",
+    "currencySymbol": "P",
+    "countryCode": "BW",
+    "currencyCode": "BWP",
+    "countryFlag": "🇧🇼",
+    "countryName": "Botswana",
+    "dialCode": "+267"
+  },
+  {
+    "currencyName": "Norwegian Krone",
+    "currencySymbol": "kr",
+    "countryCode": "BV",
+    "currencyCode": "NOK",
+    "countryFlag": "🇧🇻",
+    "countryName": "Bouvet Island",
+    "dialCode": "+47",
+    "note": "Bouvet Island is an uninhabited territory of Norway, and it uses Norway’s currency and dial code."
+  },
+  {
+    "currencyName": "Brazilian Real",
+    "currencySymbol": "R$",
+    "countryCode": "BR",
+    "currencyCode": "BRL",
+    "countryFlag": "🇧🇷",
+    "countryName": "Brazil",
+    "dialCode": "+55"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "IO",
+    "currencyCode": "USD",
+    "countryFlag": "🇮🇴",
+    "countryName": "British Indian Ocean Territory",
+    "dialCode": "+246",
+    "note": "The British Indian Ocean Territory uses the United States Dollar (USD) as its official currency."
+  },
+  {
+    "currencyName": "Brunei Dollar",
+    "currencySymbol": "$",
+    "countryCode": "BN",
+    "currencyCode": "BND",
+    "countryFlag": "🇧🇳",
+    "countryName": "Brunei",
+    "dialCode": "+673"
+  },
+  {
+    "currencyName": "Bulgarian Lev",
+    "currencySymbol": "лв",
+    "countryCode": "BG",
+    "currencyCode": "BGN",
+    "countryFlag": "🇧🇬",
+    "countryName": "Bulgaria",
+    "dialCode": "+359"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "BF",
+    "currencyCode": "XOF",
+    "countryFlag": "🇧🇫",
+    "countryName": "Burkina Faso",
+    "dialCode": "+226"
+  },
+  {
+    "currencyName": "Burundian Franc",
+    "currencySymbol": "FBu",
+    "countryCode": "BI",
+    "currencyCode": "BIF",
+    "countryFlag": "🇧🇮",
+    "countryName": "Burundi",
+    "dialCode": "+257"
+  },
+  {
+    "currencyName": "Cambodian Riel",
+    "currencySymbol": "៛",
+    "countryCode": "KH",
+    "currencyCode": "KHR",
+    "countryFlag": "🇰🇭",
+    "countryName": "Cambodia",
+    "dialCode": "+855"
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "CM",
+    "currencyCode": "XAF",
+    "countryFlag": "🇨🇲",
+    "countryName": "Cameroon",
+    "dialCode": "+237"
+  },
+  {
+    "currencyName": "Canadian Dollar",
+    "currencySymbol": "CA$",
+    "countryCode": "CA",
+    "currencyCode": "CAD",
+    "countryFlag": "🇨🇦",
+    "countryName": "Canada",
+    "dialCode": "+1"
+  },
+  {
+    "currencyName": "Cape Verdean Escudo",
+    "currencySymbol": "Esc",
+    "countryCode": "CV",
+    "currencyCode": "CVE",
+    "countryFlag": "🇨🇻",
+    "countryName": "Cape Verde",
+    "dialCode": "+238"
+  },
+  {
+    "currencyName": "Cayman Islands Dollar",
+    "currencySymbol": "$",
+    "countryCode": "KY",
+    "currencyCode": "KYD",
+    "countryFlag": "🇰🇾",
+    "countryName": "Cayman Islands",
+    "dialCode": "+345"
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "CF",
+    "currencyCode": "XAF",
+    "countryFlag": "🇨🇫",
+    "countryName": "Central African Republic",
+    "dialCode": "+236"
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "TD",
+    "currencyCode": "XAF",
+    "countryFlag": "🇹🇩",
+    "countryName": "Chad",
+    "dialCode": "+235"
+  },
+  {
+    "currencyName": "Chilean Peso",
+    "currencySymbol": "$",
+    "countryCode": "CL",
+    "currencyCode": "CLP",
+    "countryFlag": "🇨🇱",
+    "countryName": "Chile",
+    "dialCode": "+56"
+  },
+  {
+    "currencyName": "Chinese Yuan",
+    "currencySymbol": "¥",
+    "countryCode": "CN",
+    "currencyCode": "CNY",
+    "countryFlag": "🇨🇳",
+    "countryName": "China",
+    "dialCode": "+86"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "CX",
+    "currencyCode": "AUD",
+    "countryFlag": "🇨🇽",
+    "countryName": "Christmas Island",
+    "dialCode": "+61",
+    "note": "Christmas Island is an external territory of Australia and uses the Australian Dollar (AUD) and Australia’s dial code."
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "CC",
+    "currencyCode": "AUD",
+    "countryFlag": "🇨🇨",
+    "countryName": "Cocos (Keeling) Islands",
+    "dialCode": "+61",
+    "note": "The Cocos (Keeling) Islands are an external territory of Australia, and they use the Australian Dollar (AUD) and Australia’s dial code."
+  },
+  {
+    "currencyName": "Colombian Peso",
+    "currencySymbol": "$",
+    "countryCode": "CO",
+    "currencyCode": "COP",
+    "countryFlag": "🇨🇴",
+    "countryName": "Colombia",
+    "dialCode": "+57"
+  },
+  {
+    "currencyName": "Comorian Franc",
+    "currencySymbol": "CF",
+    "countryCode": "KM",
+    "currencyCode": "KMF",
+    "countryFlag": "🇰🇲",
+    "countryName": "Comoros",
+    "dialCode": "+269"
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "CG",
+    "currencyCode": "XAF",
+    "countryFlag": "🇨🇬",
+    "countryName": "Republic of the Congo",
+    "dialCode": "+242"
+  },
+  {
+    "currencyName": "Congolese Franc",
+    "currencySymbol": "FC",
+    "countryCode": "CD",
+    "currencyCode": "CDF",
+    "countryFlag": "🇨🇩",
+    "countryName": "Congo, The Democratic Republic of the Congo",
+    "dialCode": "+243"
+  },
+  {
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "NZ$",
+    "countryCode": "CK",
+    "currencyCode": "NZD",
+    "countryFlag": "🇨🇰",
+    "countryName": "Cook Islands",
+    "dialCode": "+682",
+    "note": "The Cook Islands use the New Zealand Dollar (NZD) as their official currency, although they also issue their own Cook Islands Dollars, which are not widely accepted outside the islands."
+  },
+  {
+    "currencyName": "Costa Rican Colón",
+    "currencySymbol": "₡",
+    "countryCode": "CR",
+    "currencyCode": "CRC",
+    "countryFlag": "🇨🇷",
+    "countryName": "Costa Rica",
+    "dialCode": "+506"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "CI",
+    "currencyCode": "XOF",
+    "countryFlag": "🇨🇮",
+    "countryName": "Côte d'Ivoire",
+    "dialCode": "+225"
+  },
+  {
+    "currencyName": "Croatian Kuna",
+    "currencySymbol": "kn",
+    "countryCode": "HR",
+    "currencyCode": "HRK",
+    "countryFlag": "🇭🇷",
+    "countryName": "Croatia",
+    "dialCode": "+385"
+  },
+  {
+    "currencyName": "Cuban Peso",
+    "currencySymbol": "$",
+    "countryCode": "CU",
+    "currencyCode": "CUP",
+    "countryFlag": "🇨🇺",
+    "countryName": "Cuba",
+    "dialCode": "+53"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "CY",
+    "currencyCode": "EUR",
+    "countryFlag": "🇨🇾",
+    "countryName": "Cyprus",
+    "dialCode": "+357"
+  },
+  {
+    "currencyName": "Czech Koruna",
+    "currencySymbol": "Kč",
+    "countryCode": "CZ",
+    "currencyCode": "CZK",
+    "countryFlag": "🇨🇿",
+    "countryName": "Czech Republic",
+    "dialCode": "+420"
+  },
+  {
+    "currencyName": "Danish Krone",
+    "currencySymbol": "kr",
+    "countryCode": "DK",
+    "currencyCode": "DKK",
+    "countryFlag": "🇩🇰",
+    "countryName": "Denmark",
+    "dialCode": "+45"
+  },
+  {
+    "currencyName": "Djiboutian Franc",
+    "currencySymbol": "Fdj",
+    "countryCode": "DJ",
+    "currencyCode": "DJF",
+    "countryFlag": "🇩🇯",
+    "countryName": "Djibouti",
+    "dialCode": "+253"
+  },
+  {
+    "currencyName": "Dominican Peso",
+    "currencySymbol": "RD$",
+    "countryCode": "DO",
+    "currencyCode": "DOP",
+    "countryFlag": "🇩🇴",
+    "countryName": "Dominican Republic",
+    "dialCode": "+1849"
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "DM",
+    "currencyCode": "XCD",
+    "countryFlag": "🇩🇲",
+    "countryName": "Dominica",
+    "dialCode": "+1767"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "EC",
+    "currencyCode": "USD",
+    "countryFlag": "🇪🇨",
+    "countryName": "Ecuador",
+    "dialCode": "+593"
+  },
+  {
+    "currencyName": "Egyptian Pound",
+    "currencySymbol": "£",
+    "countryCode": "EG",
+    "currencyCode": "EGP",
+    "countryFlag": "🇪🇬",
+    "countryName": "Egypt",
+    "dialCode": "+20"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "SV",
+    "currencyCode": "USD",
+    "countryFlag": "🇸🇻",
+    "countryName": "El Salvador",
+    "dialCode": "+503",
+    "note": "El Salvador also recognizes Bitcoin as legal tender alongside the United States Dollar."
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "GQ",
+    "currencyCode": "XAF",
+    "countryFlag": "🇬🇶",
+    "countryName": "Equatorial Guinea",
+    "dialCode": "+240"
+  },
+  {
+    "currencyName": "Eritrean Nakfa",
+    "currencySymbol": "Nkf",
+    "countryCode": "ER",
+    "currencyCode": "ERN",
+    "countryFlag": "🇪🇷",
+    "countryName": "Eritrea",
+    "dialCode": "+291"
+  },
+  {
+    "currencyName": "Estonian Euro",
+    "currencySymbol": "€",
+    "countryCode": "EE",
+    "currencyCode": "EUR",
+    "countryFlag": "🇪🇪",
+    "countryName": "Estonia",
+    "dialCode": "+372"
+  },
+  {
+    "currencyName": "Ethiopian Birr",
+    "currencySymbol": "Br",
+    "countryCode": "ET",
+    "currencyCode": "ETB",
+    "countryFlag": "🇪🇹",
+    "countryName": "Ethiopia",
+    "dialCode": "+251"
+  },
+  {
+    "currencyName": "Falkland Islands Pound",
+    "currencySymbol": "£",
+    "countryCode": "FK",
+    "currencyCode": "FKP",
+    "countryFlag": "🇫🇰",
+    "countryName": "Falkland Islands (Malvinas)",
+    "dialCode": "+500",
+    "note": "The Falkland Islands Pound (FKP) is pegged at par with the British Pound (GBP), and the British Pound is also widely accepted."
+  },
+  {
+    "currencyName": "Danish Krone",
+    "currencySymbol": "kr",
+    "countryCode": "FO",
+    "currencyCode": "DKK",
+    "countryFlag": "🇫🇴",
+    "countryName": "Faroe Islands",
+    "dialCode": "+298",
+    "note": "The Faroe Islands use the Danish Krone (DKK) as their official currency, but they also issue their own Faroese banknotes, which are pegged to the Danish Krone."
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "EU",
+    "currencyCode": "EUR",
+    "countryFlag": "🇪🇺",
+    "countryName": "European Union",
+    "dialCode": "+978"
+  },
+  {
+    "currencyName": "Fijian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "FJ",
+    "currencyCode": "FJD",
+    "countryFlag": "🇫🇯",
+    "countryName": "Fiji",
+    "dialCode": "+679"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "FI",
+    "currencyCode": "EUR",
+    "countryFlag": "🇫🇮",
+    "countryName": "Finland",
+    "dialCode": "+358"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "FR",
+    "currencyCode": "EUR",
+    "countryFlag": "🇫🇷",
+    "countryName": "France",
+    "dialCode": "+33"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "GF",
+    "currencyCode": "EUR",
+    "countryFlag": "🇬🇫",
+    "countryName": "French Guiana",
+    "dialCode": "+594"
+  },
+  {
+    "currencyName": "CFP Franc",
+    "currencySymbol": "₣",
+    "countryCode": "PF",
+    "currencyCode": "XPF",
+    "countryFlag": "🇵🇫",
+    "countryName": "French Polynesia",
+    "dialCode": "+689"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "TF",
+    "currencyCode": "EUR",
+    "countryFlag": "🇹🇫",
+    "countryName": "French Southern Territories",
+    "dialCode": "+262",
+    "note": "The French Southern Territories use the Euro (EUR) as their official currency. The islands are uninhabited except for research stations."
+  },
+  {
+    "currencyName": "Central African CFA Franc",
+    "currencySymbol": "FCFA",
+    "countryCode": "GA",
+    "currencyCode": "XAF",
+    "countryFlag": "🇬🇦",
+    "countryName": "Gabon",
+    "dialCode": "+241"
+  },
+  {
+    "currencyName": "Gambian Dalasi",
+    "currencySymbol": "D",
+    "countryCode": "GM",
+    "currencyCode": "GMD",
+    "countryFlag": "🇬🇲",
+    "countryName": "Gambia",
+    "dialCode": "+220"
+  },
+  {
+    "currencyName": "Georgian Lari",
+    "currencySymbol": "₾",
+    "countryCode": "GE",
+    "currencyCode": "GEL",
+    "countryFlag": "🇬🇪",
+    "countryName": "Georgia",
+    "dialCode": "+995"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "DE",
+    "currencyCode": "EUR",
+    "countryFlag": "🇩🇪",
+    "countryName": "Germany",
+    "dialCode": "+49"
+  },
+  {
+    "currencyName": "Ghanaian Cedi",
+    "currencySymbol": "GH₵",
+    "countryCode": "GH",
+    "currencyCode": "GHS",
+    "countryFlag": "🇬🇭",
+    "countryName": "Ghana",
+    "dialCode": "+233"
+  },
+  {
+    "currencyName": "Gibraltar Pound",
+    "currencySymbol": "£",
+    "countryCode": "GI",
+    "currencyCode": "GIP",
+    "countryFlag": "🇬🇮",
+    "countryName": "Gibraltar",
+    "dialCode": "+350"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "GR",
+    "currencyCode": "EUR",
+    "countryFlag": "🇬🇷",
+    "countryName": "Greece",
+    "dialCode": "+30"
+  },
+  {
+    "currencyName": "Danish Krone",
+    "currencySymbol": "kr",
+    "countryCode": "GL",
+    "currencyCode": "DKK",
+    "countryFlag": "🇬🇱",
+    "countryName": "Greenland",
+    "dialCode": "+299",
+    "note": "Greenland is an autonomous territory of Denmark and uses the Danish Krone (DKK) as its official currency."
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "GD",
+    "currencyCode": "XCD",
+    "countryFlag": "🇬🇩",
+    "countryName": "Grenada",
+    "dialCode": "+1473"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "GP",
+    "currencyCode": "EUR",
+    "countryFlag": "🇬🇵",
+    "countryName": "Guadeloupe",
+    "dialCode": "+590"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "GU",
+    "currencyCode": "USD",
+    "countryFlag": "🇬🇺",
+    "countryName": "Guam",
+    "dialCode": "+1671"
+  },
+  {
+    "currencyName": "Guatemalan Quetzal",
+    "currencySymbol": "Q",
+    "countryCode": "GT",
+    "currencyCode": "GTQ",
+    "countryFlag": "🇬🇹",
+    "countryName": "Guatemala",
+    "dialCode": "+502"
+  },
+  {
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "countryCode": "GG",
+    "currencyCode": "GBP",
+    "countryFlag": "🇬🇬",
+    "countryName": "Guernsey",
+    "dialCode": "+44",
+    "note": "Guernsey issues its own banknotes and coins, but they are pegged to the British Pound (GBP). The British Pound is also accepted."
+  },
+  {
+    "currencyName": "Guinean Franc",
+    "currencySymbol": "FG",
+    "countryCode": "GN",
+    "currencyCode": "GNF",
+    "countryFlag": "🇬🇳",
+    "countryName": "Guinea",
+    "dialCode": "+224"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "GW",
+    "currencyCode": "XOF",
+    "countryFlag": "🇬🇼",
+    "countryName": "Guinea-Bissau",
+    "dialCode": "+245"
+  },
+  {
+    "currencyName": "Guyanese Dollar",
+    "currencySymbol": "$",
+    "countryCode": "GY",
+    "currencyCode": "GYD",
+    "countryFlag": "🇬🇾",
+    "countryName": "Guyana",
+    "dialCode": "+592"
+  },
+  {
+    "currencyName": "Haitian Gourde",
+    "currencySymbol": "G",
+    "countryCode": "HT",
+    "currencyCode": "HTG",
+    "countryFlag": "🇭🇹",
+    "countryName": "Haiti",
+    "dialCode": "+509"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "HM",
+    "currencyCode": "AUD",
+    "countryFlag": "🇭🇲",
+    "countryName": "Heard Island and McDonald Islands",
+    "dialCode": "+672",
+    "note": "Heard Island and McDonald Islands are uninhabited Australian external territories and use the Australian Dollar (AUD)."
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "VA",
+    "currencyCode": "EUR",
+    "countryFlag": "🇻🇦",
+    "countryName": "Holy See (Vatican City State)",
+    "dialCode": "+379"
+  },
+  {
+    "currencyName": "Honduran Lempira",
+    "currencySymbol": "L",
+    "countryCode": "HN",
+    "currencyCode": "HNL",
+    "countryFlag": "🇭🇳",
+    "countryName": "Honduras",
+    "dialCode": "+504"
+  },
+  {
+    "currencyName": "Hong Kong Dollar",
+    "currencySymbol": "HK$",
+    "countryCode": "HK",
+    "currencyCode": "HKD",
+    "countryFlag": "🇭🇰",
+    "countryName": "Hong Kong",
+    "dialCode": "+852"
+  },
+  {
+    "currencyName": "Hungarian Forint",
+    "currencySymbol": "Ft",
+    "countryCode": "HU",
+    "currencyCode": "HUF",
+    "countryFlag": "🇭🇺",
+    "countryName": "Hungary",
+    "dialCode": "+36"
+  },
+  {
+    "currencyName": "Icelandic Króna",
+    "currencySymbol": "kr",
+    "countryCode": "IS",
+    "currencyCode": "ISK",
+    "countryFlag": "🇮🇸",
+    "countryName": "Iceland",
+    "dialCode": "+354"
+  },
+  {
+    "currencyName": "Indian Rupee",
+    "currencySymbol": "₹",
+    "countryCode": "IN",
+    "currencyCode": "INR",
+    "countryFlag": "🇮🇳",
+    "countryName": "India",
+    "dialCode": "+91"
+  },
+  {
+    "currencyName": "Indonesian Rupiah",
+    "currencySymbol": "Rp",
+    "countryCode": "ID",
+    "currencyCode": "IDR",
+    "countryFlag": "🇮🇩",
+    "countryName": "Indonesia",
+    "dialCode": "+62"
+  },
+  {
+    "currencyName": "Iranian Rial",
+    "currencySymbol": "﷼",
+    "countryCode": "IR",
+    "currencyCode": "IRR",
+    "countryFlag": "🇮🇷",
+    "countryName": "Iran",
+    "dialCode": "+98"
+  },
+  {
+    "currencyName": "Iraqi Dinar",
+    "currencySymbol": "ع.د",
+    "countryCode": "IQ",
+    "currencyCode": "IQD",
+    "countryFlag": "🇮🇶",
+    "countryName": "Iraq",
+    "dialCode": "+964"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "IE",
+    "currencyCode": "EUR",
+    "countryFlag": "🇮🇪",
+    "countryName": "Ireland",
+    "dialCode": "+353"
+  },
+  {
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "countryCode": "IM",
+    "currencyCode": "GBP",
+    "countryFlag": "🇮🇲",
+    "countryName": "Isle of Man",
+    "dialCode": "+44",
+    "note": "The Isle of Man issues its own Manx Pound, which is pegged to the British Pound (GBP), and the British Pound is also widely accepted."
+  },
+  {
+    "currencyName": "Israeli New Shekel",
+    "currencySymbol": "₪",
+    "countryCode": "IL",
+    "currencyCode": "ILS",
+    "countryFlag": "🇮🇱",
+    "countryName": "Israel",
+    "dialCode": "+972"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "IT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇮🇹",
+    "countryName": "Italy",
+    "dialCode": "+39"
+  },
+  {
+    "currencyName": "Jamaican Dollar",
+    "currencySymbol": "J$",
+    "countryCode": "JM",
+    "currencyCode": "JMD",
+    "countryFlag": "🇯🇲",
+    "countryName": "Jamaica",
+    "dialCode": "+1876"
+  },
+  {
+    "currencyName": "Japanese Yen",
+    "currencySymbol": "¥",
+    "countryCode": "JP",
+    "currencyCode": "JPY",
+    "countryFlag": "🇯🇵",
+    "countryName": "Japan",
+    "dialCode": "+81"
+  },
+  {
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "countryCode": "JE",
+    "currencyCode": "GBP",
+    "countryFlag": "🇯🇪",
+    "countryName": "Jersey",
+    "dialCode": "+44",
+    "note": "Jersey issues its own banknotes and coins, but they are pegged to the British Pound (GBP). The British Pound is also widely accepted."
+  },
+  {
+    "currencyName": "Jordanian Dinar",
+    "currencySymbol": "د.ا",
+    "countryCode": "JO",
+    "currencyCode": "JOD",
+    "countryFlag": "🇯🇴",
+    "countryName": "Jordan",
+    "dialCode": "+962"
+  },
+  {
+    "currencyName": "Kazakhstani Tenge",
+    "currencySymbol": "₸",
+    "countryCode": "KZ",
+    "currencyCode": "KZT",
+    "countryFlag": "🇰🇿",
+    "countryName": "Kazakhstan",
+    "dialCode": "+7"
+  },
+  {
+    "currencyName": "Kenyan Shilling",
+    "currencySymbol": "KSh",
+    "countryCode": "KE",
+    "currencyCode": "KES",
+    "countryFlag": "🇰🇪",
+    "countryName": "Kenya",
+    "dialCode": "+254"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "KI",
+    "currencyCode": "AUD",
+    "countryFlag": "🇰🇮",
+    "countryName": "Kiribati",
+    "dialCode": "+686"
+  },
+  {
+    "currencyName": "North Korean Won",
+    "currencySymbol": "₩",
+    "countryCode": "KP",
+    "currencyCode": "KPW",
+    "countryFlag": "🇰🇵",
+    "countryName": "Korea, Democratic People's Republic of (North Korea)",
+    "dialCode": "+850"
+  },
+  {
+    "currencyName": "South Korean Won",
+    "currencySymbol": "₩",
+    "countryCode": "KR",
+    "currencyCode": "KRW",
+    "countryFlag": "🇰🇷",
+    "countryName": "Korea, Republic of (South Korea)",
+    "dialCode": "+82"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "XK",
+    "currencyCode": "EUR",
+    "countryFlag": "🇽🇰",
+    "countryName": "Kosovo",
+    "dialCode": "+383",
+    "note": "Kosovo unilaterally adopted the Euro (EUR) as its official currency, even though it is not an official member of the Eurozone."
+  },
+
+  {
+    "currencyName": "Kuwaiti Dinar",
+    "currencySymbol": "د.ك",
+    "countryCode": "KW",
+    "currencyCode": "KWD",
+    "countryFlag": "🇰🇼",
+    "countryName": "Kuwait",
+    "dialCode": "+965"
+  },
+  {
+    "currencyName": "Kyrgyzstani Som",
+    "currencySymbol": "с",
+    "countryCode": "KG",
+    "currencyCode": "KGS",
+    "countryFlag": "🇰🇬",
+    "countryName": "Kyrgyzstan",
+    "dialCode": "+996"
+  },
+  {
+    "currencyName": "Lao Kip",
+    "currencySymbol": "₭",
+    "countryCode": "LA",
+    "currencyCode": "LAK",
+    "countryFlag": "🇱🇦",
+    "countryName": "Laos",
+    "dialCode": "+856"
+  },
+  {
+    "currencyName": "Latvian Euro",
+    "currencySymbol": "€",
+    "countryCode": "LV",
+    "currencyCode": "EUR",
+    "countryFlag": "🇱🇻",
+    "countryName": "Latvia",
+    "dialCode": "+371"
+  },
+  {
+    "currencyName": "Lebanese Pound",
+    "currencySymbol": "ل.ل",
+    "countryCode": "LB",
+    "currencyCode": "LBP",
+    "countryFlag": "🇱🇧",
+    "countryName": "Lebanon",
+    "dialCode": "+961"
+  },
+  {
+    "currencyName": "Lesotho Loti",
+    "currencySymbol": "L",
+    "countryCode": "LS",
+    "currencyCode": "LSL",
+    "countryFlag": "🇱🇸",
+    "countryName": "Lesotho",
+    "dialCode": "+266"
+  },
+  {
+    "currencyName": "Liberian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "LR",
+    "currencyCode": "LRD",
+    "countryFlag": "🇱🇷",
+    "countryName": "Liberia",
+    "dialCode": "+231"
+  },
+  {
+    "currencyName": "Libyan Dinar",
+    "currencySymbol": "ل.د",
+    "countryCode": "LY",
+    "currencyCode": "LYD",
+    "countryFlag": "🇱🇾",
+    "countryName": "Libyan Arab Jamahiriya (Libya)",
+    "dialCode": "+218"
+  },
+  {
+    "currencyName": "Swiss Franc",
+    "currencySymbol": "CHF",
+    "countryCode": "LI",
+    "currencyCode": "CHF",
+    "countryFlag": "🇱🇮",
+    "countryName": "Liechtenstein",
+    "dialCode": "+423",
+    "note": "Liechtenstein uses the Swiss Franc (CHF) as its official currency."
+  },
+  {
+    "currencyName": "Lithuanian Euro",
+    "currencySymbol": "€",
+    "countryCode": "LT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇱🇹",
+    "countryName": "Lithuania",
+    "dialCode": "+370"
+  },
+  {
+    "currencyName": "Luxembourg Euro",
+    "currencySymbol": "€",
+    "countryCode": "LU",
+    "currencyCode": "EUR",
+    "countryFlag": "🇱🇺",
+    "countryName": "Luxembourg",
+    "dialCode": "+352"
+  },
+  {
+    "currencyName": "Macanese Pataca",
+    "currencySymbol": "MOP$",
+    "countryCode": "MO",
+    "currencyCode": "MOP",
+    "countryFlag": "🇲🇴",
+    "countryName": "Macao",
+    "dialCode": "+853"
+  },
+
+  {
+    "currencyName": "Macanese Pataca",
+    "currencySymbol": "MOP$",
+    "countryCode": "MO",
+    "currencyCode": "MOP",
+    "countryFlag": "🇲🇴",
+    "countryName": "Macau",
+    "dialCode": "+853"
+  },
+  {
+    "currencyName": "Macedonian Denar",
+    "currencySymbol": "ден",
+    "countryCode": "MK",
+    "currencyCode": "MKD",
+    "countryFlag": "🇲🇰",
+    "countryName": "North Macedonia",
+    "dialCode": "+389"
+  },
+  {
+    "currencyName": "Malagasy Ariary",
+    "currencySymbol": "Ar",
+    "countryCode": "MG",
+    "currencyCode": "MGA",
+    "countryFlag": "🇲🇬",
+    "countryName": "Madagascar",
+    "dialCode": "+261"
+  },
+  {
+    "currencyName": "Malawian Kwacha",
+    "currencySymbol": "MK",
+    "countryCode": "MW",
+    "currencyCode": "MWK",
+    "countryFlag": "🇲🇼",
+    "countryName": "Malawi",
+    "dialCode": "+265"
+  },
+  {
+    "currencyName": "Malaysian Ringgit",
+    "currencySymbol": "RM",
+    "countryCode": "MY",
+    "currencyCode": "MYR",
+    "countryFlag": "🇲🇾",
+    "countryName": "Malaysia",
+    "dialCode": "+60"
+  },
+  {
+    "currencyName": "Maldivian Rufiyaa",
+    "currencySymbol": "Rf",
+    "countryCode": "MV",
+    "currencyCode": "MVR",
+    "countryFlag": "🇲🇻",
+    "countryName": "Maldives",
+    "dialCode": "+960"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "ML",
+    "currencyCode": "XOF",
+    "countryFlag": "🇲🇱",
+    "countryName": "Mali",
+    "dialCode": "+223"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "MT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇲🇹",
+    "countryName": "Malta",
+    "dialCode": "+356"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "MH",
+    "currencyCode": "USD",
+    "countryFlag": "🇲🇭",
+    "countryName": "Marshall Islands",
+    "dialCode": "+692"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "MQ",
+    "currencyCode": "EUR",
+    "countryFlag": "🇲🇶",
+    "countryName": "Martinique",
+    "dialCode": "+596"
+  },
+  {
+    "currencyName": "Mauritanian Ouguiya",
+    "currencySymbol": "UM",
+    "countryCode": "MR",
+    "currencyCode": "MRU",
+    "countryFlag": "🇲🇷",
+    "countryName": "Mauritania",
+    "dialCode": "+222"
+  },
+  {
+    "currencyName": "Mauritian Rupee",
+    "currencySymbol": "₨",
+    "countryCode": "MU",
+    "currencyCode": "MUR",
+    "countryFlag": "🇲🇺",
+    "countryName": "Mauritius",
+    "dialCode": "+230"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "YT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇾🇹",
+    "countryName": "Mayotte",
+    "dialCode": "+262"
+  },
+  {
+    "currencyName": "Mexican Peso",
+    "currencySymbol": "MX$",
+    "countryCode": "MX",
+    "currencyCode": "MXN",
+    "countryFlag": "🇲🇽",
+    "countryName": "Mexico",
+    "dialCode": "+52"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "FM",
+    "currencyCode": "USD",
+    "countryFlag": "🇫🇲",
+    "countryName": "Micronesia, Federated States of",
+    "dialCode": "+691"
+  },
+  {
+    "currencyName": "Moldovan Leu",
+    "currencySymbol": "L",
+    "countryCode": "MD",
+    "currencyCode": "MDL",
+    "countryFlag": "🇲🇩",
+    "countryName": "Moldova",
+    "dialCode": "+373"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "MC",
+    "currencyCode": "EUR",
+    "countryFlag": "🇲🇨",
+    "countryName": "Monaco",
+    "dialCode": "+377"
+  },
+  {
+    "currencyName": "Mongolian Tögrög",
+    "currencySymbol": "₮",
+    "countryCode": "MN",
+    "currencyCode": "MNT",
+    "countryFlag": "🇲🇳",
+    "countryName": "Mongolia",
+    "dialCode": "+976"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "ME",
+    "currencyCode": "EUR",
+    "countryFlag": "🇲🇪",
+    "countryName": "Montenegro",
+    "dialCode": "+382",
+    "note": "Montenegro uses the Euro (EUR) as its official currency, although it is not a member of the Eurozone."
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "MS",
+    "currencyCode": "XCD",
+    "countryFlag": "🇲🇸",
+    "countryName": "Montserrat",
+    "dialCode": "+1664"
+  },
+  {
+    "currencyName": "Moroccan Dirham",
+    "currencySymbol": "MAD",
+    "countryCode": "MA",
+    "currencyCode": "MAD",
+    "countryFlag": "🇲🇦",
+    "countryName": "Morocco",
+    "dialCode": "+212"
+  },
+  {
+    "currencyName": "Mozambican Metical",
+    "currencySymbol": "MT",
+    "countryCode": "MZ",
+    "currencyCode": "MZN",
+    "countryFlag": "🇲🇿",
+    "countryName": "Mozambique",
+    "dialCode": "+258"
+  },
+  {
+    "currencyName": "Myanma Kyat",
+    "currencySymbol": "K",
+    "countryCode": "MM",
+    "currencyCode": "MMK",
+    "countryFlag": "🇲🇲",
+    "countryName": "Myanmar",
+    "dialCode": "+95"
+  },
+  {
+    "currencyName": "Namibian Dollar",
+    "currencySymbol": "$",
+    "countryCode": "NA",
+    "currencyCode": "NAD",
+    "countryFlag": "🇳🇦",
+    "countryName": "Namibia",
+    "dialCode": "+264"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "NR",
+    "currencyCode": "AUD",
+    "countryFlag": "🇳🇷",
+    "countryName": "Nauru",
+    "dialCode": "+674"
+  },
+  {
+    "currencyName": "Nepalese Rupee",
+    "currencySymbol": "₨",
+    "countryCode": "NP",
+    "currencyCode": "NPR",
+    "countryFlag": "🇳🇵",
+    "countryName": "Nepal",
+    "dialCode": "+977"
+  },
+  {
+    "currencyName": "Netherlands Euro",
+    "currencySymbol": "€",
+    "countryCode": "NL",
+    "currencyCode": "EUR",
+    "countryFlag": "🇳🇱",
+    "countryName": "Netherlands",
+    "dialCode": "+31"
+  },
+  {
+    "currencyName": "CFP Franc",
+    "currencySymbol": "₣",
+    "countryCode": "NC",
+    "currencyCode": "XPF",
+    "countryFlag": "🇳🇨",
+    "countryName": "New Caledonia",
+    "dialCode": "+687"
+  },
+  {
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "NZ$",
+    "countryCode": "NZ",
+    "currencyCode": "NZD",
+    "countryFlag": "🇳🇿",
+    "countryName": "New Zealand",
+    "dialCode": "+64"
+  },
+  {
+    "currencyName": "Nicaraguan Córdoba",
+    "currencySymbol": "C$",
+    "countryCode": "NI",
+    "currencyCode": "NIO",
+    "countryFlag": "🇳🇮",
+    "countryName": "Nicaragua",
+    "dialCode": "+505"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "NE",
+    "currencyCode": "XOF",
+    "countryFlag": "🇳🇪",
+    "countryName": "Niger",
+    "dialCode": "+227"
+  },
+  {
+    "currencyName": "Nigerian Naira",
+    "currencySymbol": "₦",
+    "countryCode": "NG",
+    "currencyCode": "NGN",
+    "countryFlag": "🇳🇬",
+    "countryName": "Nigeria",
+    "dialCode": "+234"
+  },
+  {
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "NZ$",
+    "countryCode": "NU",
+    "currencyCode": "NZD",
+    "countryFlag": "🇳🇺",
+    "countryName": "Niue",
+    "dialCode": "+683",
+    "note": "Niue uses the New Zealand Dollar (NZD) as its official currency."
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "NF",
+    "currencyCode": "AUD",
+    "countryFlag": "🇳🇫",
+    "countryName": "Norfolk Island",
+    "dialCode": "+672"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "MP",
+    "currencyCode": "USD",
+    "countryFlag": "🇲🇵",
+    "countryName": "Northern Mariana Islands",
+    "dialCode": "+1670"
+  },
+  {
+    "currencyName": "North Korean Won",
+    "currencySymbol": "₩",
+    "countryCode": "KP",
+    "currencyCode": "KPW",
+    "countryFlag": "🇰🇵",
+    "countryName": "North Korea (Democratic People's Republic of Korea)",
+    "dialCode": "+850"
+  },
+  {
+    "currencyName": "Norwegian Krone",
+    "currencySymbol": "kr",
+    "countryCode": "NO",
+    "currencyCode": "NOK",
+    "countryFlag": "🇳🇴",
+    "countryName": "Norway",
+    "dialCode": "+47"
+  },
+  {
+    "currencyName": "Omani Rial",
+    "currencySymbol": "﷼",
+    "countryCode": "OM",
+    "currencyCode": "OMR",
+    "countryFlag": "🇴🇲",
+    "countryName": "Oman",
+    "dialCode": "+968"
+  },
+  {
+    "currencyName": "Pakistani Rupee",
+    "currencySymbol": "₨",
+    "countryCode": "PK",
+    "currencyCode": "PKR",
+    "countryFlag": "🇵🇰",
+    "countryName": "Pakistan",
+    "dialCode": "+92"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "PW",
+    "currencyCode": "USD",
+    "countryFlag": "🇵🇼",
+    "countryName": "Palau",
+    "dialCode": "+680"
+  },
+  {
+    "currencyName": "Israeli New Shekel",
+    "currencySymbol": "₪",
+    "countryCode": "PS",
+    "currencyCode": "ILS",
+    "countryFlag": "🇵🇸",
+    "countryName": "Palestinian Territory, Occupied",
+    "dialCode": "+970",
+    "note": "The Israeli New Shekel (ILS) is widely used in the Palestinian territories, though the Jordanian Dinar (JOD) and United States Dollar (USD) are also commonly accepted."
+  },
+  {
+    "currencyName": "Panamanian Balboa",
+    "currencySymbol": "B/.",
+    "countryCode": "PA",
+    "currencyCode": "PAB",
+    "countryFlag": "🇵🇦",
+    "countryName": "Panama",
+    "dialCode": "+507"
+  },
+  {
+    "currencyName": "Papua New Guinean Kina",
+    "currencySymbol": "K",
+    "countryCode": "PG",
+    "currencyCode": "PGK",
+    "countryFlag": "🇵🇬",
+    "countryName": "Papua New Guinea",
+    "dialCode": "+675"
+  },
+  {
+    "currencyName": "Paraguayan Guarani",
+    "currencySymbol": "₲",
+    "countryCode": "PY",
+    "currencyCode": "PYG",
+    "countryFlag": "🇵🇾",
+    "countryName": "Paraguay",
+    "dialCode": "+595"
+  },
+  {
+    "currencyName": "Peruvian Sol",
+    "currencySymbol": "S/",
+    "countryCode": "PE",
+    "currencyCode": "PEN",
+    "countryFlag": "🇵🇪",
+    "countryName": "Peru",
+    "dialCode": "+51"
+  },
+  {
+    "currencyName": "Philippine Peso",
+    "currencySymbol": "₱",
+    "countryCode": "PH",
+    "currencyCode": "PHP",
+    "countryFlag": "🇵🇭",
+    "countryName": "Philippines",
+    "dialCode": "+63"
+  },
+  {
+    "currencyName": "Polish Złoty",
+    "currencySymbol": "zł",
+    "countryCode": "PL",
+    "currencyCode": "PLN",
+    "countryFlag": "🇵🇱",
+    "countryName": "Poland",
+    "dialCode": "+48"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "PT",
+    "currencyCode": "EUR",
+    "countryFlag": "🇵🇹",
+    "countryName": "Portugal",
+    "dialCode": "+351"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "PR",
+    "currencyCode": "USD",
+    "countryFlag": "🇵🇷",
+    "countryName": "Puerto Rico",
+    "dialCode": "+1787"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "PR",
+    "currencyCode": "USD",
+    "countryFlag": "🇵🇷",
+    "countryName": "Puerto Rico",
+    "dialCode": "+1939"
+  },
+
+  {
+    "currencyName": "Qatari Riyal",
+    "currencySymbol": "﷼",
+    "countryCode": "QA",
+    "currencyCode": "QAR",
+    "countryFlag": "🇶🇦",
+    "countryName": "Qatar",
+    "dialCode": "+974"
+  },
+  {
+    "currencyName": "Romanian Leu",
+    "currencySymbol": "lei",
+    "countryCode": "RO",
+    "currencyCode": "RON",
+    "countryFlag": "🇷🇴",
+    "countryName": "Romania",
+    "dialCode": "+40"
+  },
+  {
+    "currencyName": "Russian Ruble",
+    "currencySymbol": "₽",
+    "countryCode": "RU",
+    "currencyCode": "RUB",
+    "countryFlag": "🇷🇺",
+    "countryName": "Russia",
+    "dialCode": "+7"
+  },
+  {
+    "currencyName": "Rwandan Franc",
+    "currencySymbol": "FRw",
+    "countryCode": "RW",
+    "currencyCode": "RWF",
+    "countryFlag": "🇷🇼",
+    "countryName": "Rwanda",
+    "dialCode": "+250"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "RE",
+    "currencyCode": "EUR",
+    "countryFlag": "🇷🇪",
+    "countryName": "Réunion",
+    "dialCode": "+262"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "BL",
+    "currencyCode": "EUR",
+    "countryFlag": "🇧🇱",
+    "countryName": "Saint Barthélemy",
+    "dialCode": "+590"
+  },
+  {
+    "currencyName": "Saint Helena Pound",
+    "currencySymbol": "£",
+    "countryCode": "SH",
+    "currencyCode": "SHP",
+    "countryFlag": "🇸🇭",
+    "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+    "dialCode": "+290",
+    "note": "The Saint Helena Pound (SHP) is used, and it is pegged at par with the British Pound (GBP). The British Pound is also widely accepted."
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "KN",
+    "currencyCode": "XCD",
+    "countryFlag": "🇰🇳",
+    "countryName": "Saint Kitts and Nevis",
+    "dialCode": "+1869"
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "LC",
+    "currencyCode": "XCD",
+    "countryFlag": "🇱🇨",
+    "countryName": "Saint Lucia",
+    "dialCode": "+1758"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "MF",
+    "currencyCode": "EUR",
+    "countryFlag": "🇲🇫",
+    "countryName": "Saint Martin",
+    "dialCode": "+590"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "PM",
+    "currencyCode": "EUR",
+    "countryFlag": "🇵🇲",
+    "countryName": "Saint Pierre and Miquelon",
+    "dialCode": "+508"
+  },
+  {
+    "currencyName": "East Caribbean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "VC",
+    "currencyCode": "XCD",
+    "countryFlag": "🇻🇨",
+    "countryName": "Saint Vincent and the Grenadines",
+    "dialCode": "+1784"
+  },
+  {
+    "currencyName": "Samoan Tala",
+    "currencySymbol": "WS$",
+    "countryCode": "WS",
+    "currencyCode": "WST",
+    "countryFlag": "🇼🇸",
+    "countryName": "Samoa",
+    "dialCode": "+685"
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "SM",
+    "currencyCode": "EUR",
+    "countryFlag": "🇸🇲",
+    "countryName": "San Marino",
+    "dialCode": "+378"
+  },
+  {
+    "currencyName": "São Tomé and Príncipe Dobra",
+    "currencySymbol": "Db",
+    "countryCode": "ST",
+    "currencyCode": "STN",
+    "countryFlag": "🇸🇹",
+    "countryName": "São Tomé and Príncipe",
+    "dialCode": "+239"
+  },
+  {
+    "currencyName": "Saudi Riyal",
+    "currencySymbol": "﷼",
+    "countryCode": "SA",
+    "currencyCode": "SAR",
+    "countryFlag": "🇸🇦",
+    "countryName": "Saudi Arabia",
+    "dialCode": "+966"
+  },
+  {
+    "currencyName": "Senegalese Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "SN",
+    "currencyCode": "XOF",
+    "countryFlag": "🇸🇳",
+    "countryName": "Senegal",
+    "dialCode": "+221"
+  },
+  {
+    "currencyName": "Serbian Dinar",
+    "currencySymbol": "дин.",
+    "countryCode": "RS",
+    "currencyCode": "RSD",
+    "countryFlag": "🇷🇸",
+    "countryName": "Serbia",
+    "dialCode": "+381"
+  },
+  {
+    "currencyName": "Seychellois Rupee",
+    "currencySymbol": "₨",
+    "countryCode": "SC",
+    "currencyCode": "SCR",
+    "countryFlag": "🇸🇨",
+    "countryName": "Seychelles",
+    "dialCode": "+248"
+  },
+  {
+    "currencyName": "Sierra Leonean Leone",
+    "currencySymbol": "Le",
+    "countryCode": "SL",
+    "currencyCode": "SLL",
+    "countryFlag": "🇸🇱",
+    "countryName": "Sierra Leone",
+    "dialCode": "+232"
+  },
+  {
+    "currencyName": "Singapore Dollar",
+    "currencySymbol": "S$",
+    "countryCode": "SG",
+    "currencyCode": "SGD",
+    "countryFlag": "🇸🇬",
+    "countryName": "Singapore",
+    "dialCode": "+65"
+  },
+  {
+    "currencyName": "Slovak Euro",
+    "currencySymbol": "€",
+    "countryCode": "SK",
+    "currencyCode": "EUR",
+    "countryFlag": "🇸🇰",
+    "countryName": "Slovakia",
+    "dialCode": "+421"
+  },
+  {
+    "currencyName": "Slovenian Euro",
+    "currencySymbol": "€",
+    "countryCode": "SI",
+    "currencyCode": "EUR",
+    "countryFlag": "🇸🇮",
+    "countryName": "Slovenia",
+    "dialCode": "+386"
+  },
+  {
+    "currencyName": "Solomon Islands Dollar",
+    "currencySymbol": "SI$",
+    "countryCode": "SB",
+    "currencyCode": "SBD",
+    "countryFlag": "🇸🇧",
+    "countryName": "Solomon Islands",
+    "dialCode": "+677"
+  },
+  {
+    "currencyName": "Somali Shilling",
+    "currencySymbol": "Sh.So.",
+    "countryCode": "SO",
+    "currencyCode": "SOS",
+    "countryFlag": "🇸🇴",
+    "countryName": "Somalia",
+    "dialCode": "+252"
+  },
+  {
+    "currencyName": "South African Rand",
+    "currencySymbol": "R",
+    "countryCode": "ZA",
+    "currencyCode": "ZAR",
+    "countryFlag": "🇿🇦",
+    "countryName": "South Africa",
+    "dialCode": "+27"
+  },
+  {
+    "currencyName": "South Korean Won",
+    "currencySymbol": "₩",
+    "countryCode": "KR",
+    "currencyCode": "KRW",
+    "countryFlag": "🇰🇷",
+    "countryName": "South Korea",
+    "dialCode": "+82"
+  },
+  {
+    "currencyName": "South Sudanese Pound",
+    "currencySymbol": "£",
+    "countryCode": "SS",
+    "currencyCode": "SSP",
+    "countryFlag": "🇸🇸",
+    "countryName": "South Sudan",
+    "dialCode": "+211"
+  },
+  {
+    "currencyName": "Pound Sterling",
+    "currencySymbol": "£",
+    "countryCode": "GS",
+    "currencyCode": "GBP",
+    "countryFlag": "🇬🇸",
+    "countryName": "South Georgia and the South Sandwich Islands",
+    "dialCode": "+500",
+    "note": "As a British Overseas Territory, the islands use the Pound Sterling (GBP)."
+  },
+  {
+    "currencyName": "Euro",
+    "currencySymbol": "€",
+    "countryCode": "ES",
+    "currencyCode": "EUR",
+    "countryFlag": "🇪🇸",
+    "countryName": "Spain",
+    "dialCode": "+34"
+  },
+  {
+    "currencyName": "Sri Lankan Rupee",
+    "currencySymbol": "Rs",
+    "countryCode": "LK",
+    "currencyCode": "LKR",
+    "countryFlag": "🇱🇰",
+    "countryName": "Sri Lanka",
+    "dialCode": "+94"
+  },
+  {
+    "currencyName": "Sudanese Pound",
+    "currencySymbol": "£",
+    "countryCode": "SD",
+    "currencyCode": "SDG",
+    "countryFlag": "🇸🇩",
+    "countryName": "Sudan",
+    "dialCode": "+249"
+  },
+  {
+    "currencyName": "Surinamese Dollar",
+    "currencySymbol": "$",
+    "countryCode": "SR",
+    "currencyCode": "SRD",
+    "countryFlag": "🇸🇷",
+    "countryName": "Suriname",
+    "dialCode": "+597"
+  },
+  {
+    "currencyName": "Norwegian Krone",
+    "currencySymbol": "kr",
+    "countryCode": "SJ",
+    "currencyCode": "NOK",
+    "countryFlag": "🇸🇯",
+    "countryName": "Svalbard and Jan Mayen",
+    "dialCode": "+47",
+    "note": "Svalbard and Jan Mayen are territories of Norway, and they use the Norwegian Krone (NOK)."
+  },
+  {
+    "currencyName": "Swazi Lilangeni",
+    "currencySymbol": "L",
+    "countryCode": "SZ",
+    "currencyCode": "SZL",
+    "countryFlag": "🇸🇿",
+    "countryName": "Eswatini",
+    "dialCode": "+268"
+  },
+  {
+    "currencyName": "Swedish Krona",
+    "currencySymbol": "kr",
+    "countryCode": "SE",
+    "currencyCode": "SEK",
+    "countryFlag": "🇸🇪",
+    "countryName": "Sweden",
+    "dialCode": "+46"
+  },
+  {
+    "currencyName": "Swiss Franc",
+    "currencySymbol": "CHF",
+    "countryCode": "CH",
+    "currencyCode": "CHF",
+    "countryFlag": "🇨🇭",
+    "countryName": "Switzerland",
+    "dialCode": "+41"
+  },
+  {
+    "currencyName": "Syrian Pound",
+    "currencySymbol": "£S",
+    "countryCode": "SY",
+    "currencyCode": "SYP",
+    "countryFlag": "🇸🇾",
+    "countryName": "Syria",
+    "dialCode": "+963"
+  },
+  {
+    "currencyName": "New Taiwan Dollar",
+    "currencySymbol": "NT$",
+    "countryCode": "TW",
+    "currencyCode": "TWD",
+    "countryFlag": "🇹🇼",
+    "countryName": "Taiwan",
+    "dialCode": "+886"
+  },
+  {
+    "currencyName": "Tajikistani Somoni",
+    "currencySymbol": "ЅM",
+    "countryCode": "TJ",
+    "currencyCode": "TJS",
+    "countryFlag": "🇹🇯",
+    "countryName": "Tajikistan",
+    "dialCode": "+992"
+  },
+  {
+    "currencyName": "Tanzanian Shilling",
+    "currencySymbol": "Sh",
+    "countryCode": "TZ",
+    "currencyCode": "TZS",
+    "countryFlag": "🇹🇿",
+    "countryName": "Tanzania",
+    "dialCode": "+255"
+  },
+  {
+    "currencyName": "Thai Baht",
+    "currencySymbol": "฿",
+    "countryCode": "TH",
+    "currencyCode": "THB",
+    "countryFlag": "🇹🇭",
+    "countryName": "Thailand",
+    "dialCode": "+66"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "TL",
+    "currencyCode": "USD",
+    "countryFlag": "🇹🇱",
+    "countryName": "Timor-Leste",
+    "dialCode": "+670"
+  },
+  {
+    "currencyName": "West African CFA Franc",
+    "currencySymbol": "CFA",
+    "countryCode": "TG",
+    "currencyCode": "XOF",
+    "countryFlag": "🇹🇬",
+    "countryName": "Togo",
+    "dialCode": "+228"
+  },
+  {
+    "currencyName": "New Zealand Dollar",
+    "currencySymbol": "NZ$",
+    "countryCode": "TK",
+    "currencyCode": "NZD",
+    "countryFlag": "🇹🇰",
+    "countryName": "Tokelau",
+    "dialCode": "+690"
+  },
+  {
+    "currencyName": "Tongan Paʻanga",
+    "currencySymbol": "T$",
+    "countryCode": "TO",
+    "currencyCode": "TOP",
+    "countryFlag": "🇹🇴",
+    "countryName": "Tonga",
+    "dialCode": "+676"
+  },
+  {
+    "currencyName": "Trinidad and Tobago Dollar",
+    "currencySymbol": "$",
+    "countryCode": "TT",
+    "currencyCode": "TTD",
+    "countryFlag": "🇹🇹",
+    "countryName": "Trinidad and Tobago",
+    "dialCode": "+1868"
+  },
+  {
+    "currencyName": "Tunisian Dinar",
+    "currencySymbol": "د.ت",
+    "countryCode": "TN",
+    "currencyCode": "TND",
+    "countryFlag": "🇹🇳",
+    "countryName": "Tunisia",
+    "dialCode": "+216"
+  },
+  {
+    "currencyName": "Turkish Lira",
+    "currencySymbol": "₺",
+    "countryCode": "TR",
+    "currencyCode": "TRY",
+    "countryFlag": "🇹🇷",
+    "countryName": "Turkey",
+    "dialCode": "+90"
+  },
+  {
+    "currencyName": "Turkmenistani Manat",
+    "currencySymbol": "m",
+    "countryCode": "TM",
+    "currencyCode": "TMT",
+    "countryFlag": "🇹🇲",
+    "countryName": "Turkmenistan",
+    "dialCode": "+993"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "TC",
+    "currencyCode": "USD",
+    "countryFlag": "🇹🇨",
+    "countryName": "Turks and Caicos Islands",
+    "dialCode": "+1649"
+  },
+  {
+    "currencyName": "Australian Dollar",
+    "currencySymbol": "A$",
+    "countryCode": "TV",
+    "currencyCode": "AUD",
+    "countryFlag": "🇹🇻",
+    "countryName": "Tuvalu",
+    "dialCode": "+688",
+    "note": "Tuvalu uses the Australian Dollar (AUD) as its official currency, and Tuvaluan dollars are also issued as commemorative coins."
+  },
+  {
+    "currencyName": "Ugandan Shilling",
+    "currencySymbol": "Sh",
+    "countryCode": "UG",
+    "currencyCode": "UGX",
+    "countryFlag": "🇺🇬",
+    "countryName": "Uganda",
+    "dialCode": "+256"
+  },
+  {
+    "currencyName": "Ukrainian Hryvnia",
+    "currencySymbol": "₴",
+    "countryCode": "UA",
+    "currencyCode": "UAH",
+    "countryFlag": "🇺🇦",
+    "countryName": "Ukraine",
+    "dialCode": "+380"
+  },
+  {
+    "currencyName": "United Arab Emirates Dirham",
+    "currencySymbol": "د.إ",
+    "countryCode": "AE",
+    "currencyCode": "AED",
+    "countryFlag": "🇦🇪",
+    "countryName": "United Arab Emirates",
+    "dialCode": "+971"
+  },
+  {
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "countryCode": "GB",
+    "currencyCode": "GBP",
+    "countryFlag": "🇬🇧",
+    "countryName": "United Kingdom",
+    "dialCode": "+44"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "US",
+    "currencyCode": "USD",
+    "countryFlag": "🇺🇸",
+    "countryName": "United States",
+    "dialCode": "+1"
+  },
+  {
+    "currencyName": "Uruguayan Peso",
+    "currencySymbol": "$U",
+    "countryCode": "UY",
+    "currencyCode": "UYU",
+    "countryFlag": "🇺🇾",
+    "countryName": "Uruguay",
+    "dialCode": "+598"
+  },
+  {
+    "currencyName": "Uzbekistani Soʻm",
+    "currencySymbol": "сўм",
+    "countryCode": "UZ",
+    "currencyCode": "UZS",
+    "countryFlag": "🇺🇿",
+    "countryName": "Uzbekistan",
+    "dialCode": "+998"
+  },
+  {
+    "currencyName": "Vanuatu Vatu",
+    "currencySymbol": "VT",
+    "countryCode": "VU",
+    "currencyCode": "VUV",
+    "countryFlag": "🇻🇺",
+    "countryName": "Vanuatu",
+    "dialCode": "+678"
+  },
+  {
+    "currencyName": "Venezuelan Bolívar",
+    "currencySymbol": "Bs.",
+    "countryCode": "VE",
+    "currencyCode": "VES",
+    "countryFlag": "🇻🇪",
+    "countryName": "Venezuela",
+    "dialCode": "+58"
+  },
+  {
+    "currencyName": "Vietnamese Đồng",
+    "currencySymbol": "₫",
+    "countryCode": "VN",
+    "currencyCode": "VND",
+    "countryFlag": "🇻🇳",
+    "countryName": "Vietnam",
+    "dialCode": "+84"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "VG",
+    "currencyCode": "USD",
+    "countryFlag": "🇻🇬",
+    "countryName": "British Virgin Islands",
+    "dialCode": "+1284"
+  },
+  {
+    "currencyName": "United States Dollar",
+    "currencySymbol": "$",
+    "countryCode": "VI",
+    "currencyCode": "USD",
+    "countryFlag": "🇻🇮",
+    "countryName": "U.S. Virgin Islands",
+    "dialCode": "+1340"
+  },
+  {
+    "currencyName": "CFP Franc",
+    "currencySymbol": "₣",
+    "countryCode": "WF",
+    "currencyCode": "XPF",
+    "countryFlag": "🇼🇫",
+    "countryName": "Wallis and Futuna",
+    "dialCode": "+681"
+  },
+  {
+    "currencyName": "Yemeni Rial",
+    "currencySymbol": "﷼",
+    "countryCode": "YE",
+    "currencyCode": "YER",
+    "countryFlag": "🇾🇪",
+    "countryName": "Yemen",
+    "dialCode": "+967"
+  },
+  {
+    "currencyName": "Zambian Kwacha",
+    "currencySymbol": "ZK",
+    "countryCode": "ZM",
+    "currencyCode": "ZMW",
+    "countryFlag": "🇿🇲",
+    "countryName": "Zambia",
+    "dialCode": "+260"
+  },
+  {
+    "currencyName": "Zimbabwean Dollar",
+    "currencySymbol": "$",
+    "countryCode": "ZW",
+    "currencyCode": "ZWL",
+    "countryFlag": "🇿🇼",
+    "countryName": "Zimbabwe",
+    "dialCode": "+263"
+  }
+]
